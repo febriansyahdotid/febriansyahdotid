@@ -1,8 +1,8 @@
 #FEBRIANSYAH.ID
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=febriansyahdotid&show_icons=true&theme=radical)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=febriansyahdotid&repo=animku&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=febriansyahdotid&repo=manga-api&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=sekaidotid&repo=ffsuki&theme=radical)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=sekaidotid&repo=hiyami&theme=radical)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=febriansyahdotid&layout=compact&theme=nightowl)
 
 <a href="https://www.instagram.com/febriansyahdotid" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>

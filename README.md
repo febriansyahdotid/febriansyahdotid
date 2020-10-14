@@ -1,5 +1,3 @@
-<div style="background-image: url('https://raw.githubusercontent.com/febriansyahdotid/febriansyahdotid/main/momo.jpg');">
-
 <h1 align="center">Hi, I'm <a href="https://febriansyah.id">Febriansyah</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile ＾ω＾</h1>
 
@@ -16,4 +14,3 @@
 </p>
 
 <p align="center">I'm Freelancer Web Dev & Founder SEKAI.ID</p>
-</div>
